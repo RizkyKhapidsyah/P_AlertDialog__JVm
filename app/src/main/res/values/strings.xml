@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P_AlertDialog__JVm</string>
+    <string name="B_AlertDemo_IDXML">Klik Disini</string>
+    <string name="TV_Info_IDXML">Klik Tombol Untuk Menampilkan AlertDialog</string>
+</resources>
